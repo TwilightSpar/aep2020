@@ -1,4 +1,4 @@
-<project name="aep19">
+<project default="test" name="aep2020">
     <property name="main.build.dir" value="build/main"/>
     <property name="main.src.dir" value="src"/>
     <property name="test.build.dir" value="build/test"/>
@@ -15,6 +15,12 @@
         <javac srcdir="${main.src.dir}" destdir="${main.build.dir}" includeantruntime="false"/>
     </target>
 
+    <target name="Clean" description="Removes previous build">
+        <delete verbose="true">
+            <fileset dir="./build"/>
+        </delete>
+    </target>
+
     <target name="test-compile" depends="compile">
         <mkdir dir="${test.build.dir}"/>
         <javac srcdir="${test.src.dir}" destdir="${test.build.dir}" includeantruntime="false">
@@ -22,7 +28,7 @@
         </javac>
     </target>
 
-    <target name="test" depends="test-compile">
+    <target name="test" depends="Clean, test-compile">
         <junit printsummary="on" haltonfailure="yes" fork="true">
             <classpath>
                 <path refid="classpath.test"/>
