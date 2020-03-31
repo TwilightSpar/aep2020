@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e5d13d9a-8791-4ed9-984d-ad518889af15" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DarkyenusTimeTracker">
+    <option name="totalTimeSeconds" value="19402" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WpkcAlzZZCJ55FpIeKJ1jW9F2n" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Groovy JUnit" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Groovy JUnit" value="groovy.util.GroovyTestCase" />
+    <property name="findjar.last.used.dir" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.3460972" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="edu.berkeley.aep" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="edu.berkeley.aep" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="groovy.util.GroovyTestCase" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="edu.berkeley.aep" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\yangy\IdeaProjects\untitled\src\edu\berkeley\aep" />
+      <recent name="C:\Users\yangy\IdeaProjects\untitled" />
+      <recent name="C:\Users\yangy\IdeaProjects\untitled\jar" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="edu.berkeley.aep" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.NotTest">
+    <configuration name="ReverseString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.berkeley.aep.ReverseString" />
+      <module name="aep2020" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NotTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="aep2020" />
+      <option name="PACKAGE_NAME" value="edu.berkeley.aep" />
+      <option name="MAIN_CLASS_NAME" value="edu.berkeley.aep.NotTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RecurrsionTest.reverseAPPLEShouldBeELPPA" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="aep2020" />
+      <option name="PACKAGE_NAME" value="edu.berkeley.aep" />
+      <option name="MAIN_CLASS_NAME" value="edu.berkeley.aep.RecurrsionTest" />
+      <option name="METHOD_NAME" value="reverseAPPLEShouldBeELPPA" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SortTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="aep2020" />
+      <option name="PACKAGE_NAME" value="edu.berkeley.aep" />
+      <option name="MAIN_CLASS_NAME" value="edu.berkeley.aep.SortTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SortTest.theBetterOne" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="aep2020" />
+      <option name="PACKAGE_NAME" value="edu.berkeley.aep" />
+      <option name="MAIN_CLASS_NAME" value="edu.berkeley.aep.SortTest" />
+      <option name="METHOD_NAME" value="theBetterOne" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.NotTest" />
+        <item itemvalue="JUnit.RecurrsionTest.reverseAPPLEShouldBeELPPA" />
+        <item itemvalue="Application.ReverseString" />
+        <item itemvalue="JUnit.SortTest" />
+        <item itemvalue="JUnit.SortTest.theBetterOne" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="234" y="0" key="#HTTP_Proxy" timestamp="1580169737632">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="234" y="0" key="#HTTP_Proxy/0.0.1280.680@0.0.1280.680" timestamp="1580169737632" />
+    <state x="233" y="0" key="#Inspections" timestamp="1580169173199">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="0" key="#Inspections/0.0.1280.680@0.0.1280.680" timestamp="1580169173199" />
+    <state x="233" y="0" key="#Intentions" timestamp="1580315379370">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="0" key="#Intentions/0.0.1280.680@0.0.1280.680" timestamp="1580315379370" />
+    <state x="226" y="0" key="#Project_Structure" timestamp="1585622687140">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="226" y="0" key="#Project_Structure/0.0.1280.680@0.0.1280.680" timestamp="1585622687140" />
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580359201511">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1580359201511" />
+    <state x="93" y="93" width="1095" height="495" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1583221222087">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="93" y="93" width="1095" height="495" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1280.680@0.0.1280.680" timestamp="1583221222087" />
+    <state x="446" y="51" key="#com.intellij.ide.util.MemberChooser" timestamp="1583797922835">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="446" y="51" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1583797922835" />
+    <state x="371" y="125" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1580260375423">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="371" y="125" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1280.680@0.0.1280.680" timestamp="1580260375423" />
+    <state x="471" y="52" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog" timestamp="1581401015989">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="471" y="52" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog/0.0.1280.680@0.0.1280.680" timestamp="1581401015989" />
+    <state x="438" y="201" width="404" height="287" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1585612517514">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="438" y="201" width="404" height="287" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1280.680@0.0.1280.680" timestamp="1585612517514" />
+    <state x="283" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1583219910745">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="283" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1280.680@0.0.1280.680" timestamp="1583219910745" />
+    <state x="395" y="57" key="DetectedRootsChooserDialog" timestamp="1581400947178">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="395" y="57" key="DetectedRootsChooserDialog/0.0.1280.680@0.0.1280.680" timestamp="1581400947178" />
+    <state x="421" y="83" key="FileChooserDialogImpl" timestamp="1581667158135">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="83" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1581667158135" />
+    <state width="1259" height="133" key="GridCell.Tab.0.bottom" timestamp="1585622749483">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="133" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1585622749483" />
+    <state width="1259" height="133" key="GridCell.Tab.0.center" timestamp="1585622749483">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="133" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1585622749483" />
+    <state width="1259" height="133" key="GridCell.Tab.0.left" timestamp="1585622749482">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="133" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1585622749482" />
+    <state width="1259" height="133" key="GridCell.Tab.0.right" timestamp="1585622749483">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="133" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1585622749483" />
+    <state width="1259" height="204" key="GridCell.Tab.1.bottom" timestamp="1583222246117">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="204" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1583222246117" />
+    <state width="1259" height="204" key="GridCell.Tab.1.center" timestamp="1583222246117">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="204" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1583222246117" />
+    <state width="1259" height="204" key="GridCell.Tab.1.left" timestamp="1583222246117">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="204" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1583222246117" />
+    <state width="1259" height="204" key="GridCell.Tab.1.right" timestamp="1583222246117">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="204" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1583222246117" />
+    <state x="121" y="0" key="SettingsEditor" timestamp="1581667505873">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="121" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1581667505873" />
+    <state x="362" y="82" width="540" height="524" key="StructurePopup" timestamp="1583185270545">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="362" y="82" width="540" height="524" key="StructurePopup/0.0.1280.680@0.0.1280.680" timestamp="1583185270545" />
+    <state x="53" y="306" key="com.intellij.ide.util.TipDialog" timestamp="1585607869237">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="53" y="306" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1585607869237" />
+    <state x="375" y="235" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1580358867517">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="375" y="235" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1280.680@0.0.1280.680" timestamp="1580358867517" />
+    <state x="412" y="45" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1580315648516">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="412" y="45" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1280.680@0.0.1280.680" timestamp="1580315648516" />
+    <state x="93" y="93" width="1095" height="495" key="dock-window-1" timestamp="1580769162331">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="93" y="93" width="1095" height="495" key="dock-window-1/0.0.1280.680@0.0.1280.680" timestamp="1580769162331" />
+    <state x="309" y="0" key="new project wizard" timestamp="1585610931675">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="309" y="0" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1585610931675" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1583185119781">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1583185119781" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/edu/berkeley/aep/ScaleQuantity.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
