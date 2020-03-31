@@ -5,21 +5,20 @@ import org.junit.Test;
 import static org.junit.Assert.assertEquals;
 
 public class QuantityTest {
-<<<<<<< HEAD
     // add method in Quantity class
     @Test
     public void twoInchAddTwoInchShouldEqualFourInch() throws Exception {
-        assertEquals(new ArithmeticQuantity(4,Unit.INCH),new ArithmeticQuantity(2,Unit.INCH).add(new ArithmeticQuantity(2,Unit.INCH)));
+        assertEquals(new ArithmeticQuantity(4,Unit.INCHES),new ArithmeticQuantity(2,Unit.INCHES).add(new ArithmeticQuantity(2,Unit.INCHES)));
     }
 
     @Test
     public void twoTableSpoonAddOneOZShouldEqualTwelveTeaSpoon() throws Exception {
-        assertEquals(new ArithmeticQuantity(12,Unit.TEASPOON),new ArithmeticQuantity(2,Unit.TABLESPOON).add(new ArithmeticQuantity(1,Unit.OZ)));
+        assertEquals(new ArithmeticQuantity(12,Unit.TSP),new ArithmeticQuantity(2,Unit.TBSP).add(new ArithmeticQuantity(1,Unit.OZ)));
     }
 
     @Test(expected = Exception.class)
     public void twoTeaSpoonAddOneInchShouldThrowException() throws Exception {
-        assertEquals(new ArithmeticQuantity(12,Unit.TEASPOON),new ArithmeticQuantity(2,Unit.TABLESPOON).add(new ArithmeticQuantity(1,Unit.INCH)));
+        assertEquals(new ArithmeticQuantity(12,Unit.TSP),new ArithmeticQuantity(2,Unit.TBSP).add(new ArithmeticQuantity(1,Unit.INCHES)));
     }
 
     @Test
@@ -31,22 +30,19 @@ public class QuantityTest {
 
     @Test
     public void AHundredDegreeAddZeroDegreeEqualsFiftyDegree() throws Exception{
-        ArithmeticQuantity _50 = new ArithmeticQuantity(50, Unit.FOOT);
-        ArithmeticQuantity _12 = new ArithmeticQuantity(12, Unit.INCH);
-        ArithmeticQuantity _51 = new ArithmeticQuantity(51, Unit.FOOT);
+        ArithmeticQuantity _50 = new ArithmeticQuantity(50, Unit.FEET);
+        ArithmeticQuantity _12 = new ArithmeticQuantity(12, Unit.INCHES);
+        ArithmeticQuantity _51 = new ArithmeticQuantity(51, Unit.FEET);
         assertEquals(_51, _50.add(_12));
     }
 
 
     @Test
     public void testBetterThan(){
-        var quantity_a = new ScaleQuantity(200, Unit.INCH);
-        var quantity_b = new ScaleQuantity(12, Unit.FOOT);
+        var quantity_a = new ScaleQuantity(200, Unit.INCHES);
+        var quantity_b = new ScaleQuantity(12, Unit.FEET);
         assertEquals(quantity_a.betterThan(quantity_b), true);
     }
-
-
-=======
 
     @Test
     public void twelveInchesShouldEqualOneFoot() {
@@ -116,5 +112,4 @@ public class QuantityTest {
         var zeroCelsius = new Quantity(0, Unit.CELSIUS);
         assertEquals(zeroCelsius, thirtyTwoFahrenheit);
     }
->>>>>>> 512bef54ed320fb9952b43a290e23c42885c4b5b
 }

@@ -1,14 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e5d13d9a-8791-4ed9-984d-ad518889af15" name="Default Changelist" comment="" />
+    <list default="true" id="e5d13d9a-8791-4ed9-984d-ad518889af15" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/main/edu/berkeley/aep/Quantity.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/main/edu/berkeley/aep/Quantity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/main/edu/berkeley/aep/Rectangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/main/edu/berkeley/aep/Rectangle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/main/edu/berkeley/aep/Unit.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/main/edu/berkeley/aep/Unit.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test/edu/berkeley/aep/BesterTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/test/edu/berkeley/aep/BesterTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test/edu/berkeley/aep/QuantityTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/test/edu/berkeley/aep/QuantityTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test/edu/berkeley/aep/RectangleTeat.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/test/edu/berkeley/aep/RectangleTeat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test/edu/berkeley/aep/RectangleTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/test/edu/berkeley/aep/RectangleTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test/edu/berkeley/aep/SortTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/test/edu/berkeley/aep/SortTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test/edu/berkeley/aep/SquareTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/test/edu/berkeley/aep/SquareTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test/edu/berkeley/aep/UnitTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/test/edu/berkeley/aep/UnitTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/aep2020/edu/berkeley/aep/Rectangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/aep2020/edu/berkeley/aep/Rectangle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/aep2020/edu/berkeley/aep/Unit$UnitType.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/aep2020/edu/berkeley/aep/Unit$UnitType.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/aep2020/edu/berkeley/aep/Unit.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/aep2020/edu/berkeley/aep/Unit.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/aep2020/edu/berkeley/aep/QuantityTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/aep2020/edu/berkeley/aep/QuantityTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/aep2020/edu/berkeley/aep/RectangleTeat.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/aep2020/edu/berkeley/aep/RectangleTeat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/aep2020/edu/berkeley/aep/SortTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/aep2020/edu/berkeley/aep/SortTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/aep2020/edu/berkeley/aep/SquareTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/aep2020/edu/berkeley/aep/SquareTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/aep2020/edu/berkeley/aep/UnitTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/aep2020/edu/berkeley/aep/UnitTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/berkeley/aep/Quantity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/berkeley/aep/Quantity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/berkeley/aep/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/berkeley/aep/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/berkeley/aep/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/berkeley/aep/Square.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/berkeley/aep/Unit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/berkeley/aep/Unit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/edu/berkeley/aep/QuantityTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/edu/berkeley/aep/QuantityTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/edu/berkeley/aep/RectangleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/edu/berkeley/aep/SortTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/edu/berkeley/aep/SortTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/edu/berkeley/aep/SquareTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/edu/berkeley/aep/SquareTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/edu/berkeley/aep/UnitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/edu/berkeley/aep/UnitTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DarkyenusTimeTracker">
-    <option name="totalTimeSeconds" value="19402" />
+    <option name="totalTimeSeconds" value="22118" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -17,6 +48,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1WpkcAlzZZCJ55FpIeKJ1jW9F2n" />
   <component name="ProjectViewState">
@@ -30,6 +64,7 @@
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Groovy JUnit" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Groovy JUnit" value="groovy.util.GroovyTestCase" />
     <property name="findjar.last.used.dir" value="$PROJECT_DIR$" />
@@ -61,59 +96,61 @@
       <recent name="edu.berkeley.aep" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.NotTest">
-    <configuration name="ReverseString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="edu.berkeley.aep.ReverseString" />
-      <module name="aep2020" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="NotTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.RectangleTeat">
+    <configuration name="BesterTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="aep2020" />
       <option name="PACKAGE_NAME" value="edu.berkeley.aep" />
-      <option name="MAIN_CLASS_NAME" value="edu.berkeley.aep.NotTest" />
+      <option name="MAIN_CLASS_NAME" value="edu.berkeley.aep.BesterTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RecurrsionTest.reverseAPPLEShouldBeELPPA" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="BesterTest.shouldChooseBestQuantity" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="aep2020" />
       <option name="PACKAGE_NAME" value="edu.berkeley.aep" />
-      <option name="MAIN_CLASS_NAME" value="edu.berkeley.aep.RecurrsionTest" />
-      <option name="METHOD_NAME" value="reverseAPPLEShouldBeELPPA" />
+      <option name="MAIN_CLASS_NAME" value="edu.berkeley.aep.BesterTest" />
+      <option name="METHOD_NAME" value="shouldChooseBestQuantity" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SortTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="QuantityTest.twoTeaSpoonAddOneInchShouldThrowException" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="aep2020" />
       <option name="PACKAGE_NAME" value="edu.berkeley.aep" />
-      <option name="MAIN_CLASS_NAME" value="edu.berkeley.aep.SortTest" />
+      <option name="MAIN_CLASS_NAME" value="edu.berkeley.aep.QuantityTest" />
+      <option name="METHOD_NAME" value="twoTeaSpoonAddOneInchShouldThrowException" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RectangleTeat" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="aep2020" />
+      <option name="PACKAGE_NAME" value="edu.berkeley.aep" />
+      <option name="MAIN_CLASS_NAME" value="edu.berkeley.aep.RectangleTeat" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SortTest.theBetterOne" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="RectangleTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="aep2020" />
       <option name="PACKAGE_NAME" value="edu.berkeley.aep" />
-      <option name="MAIN_CLASS_NAME" value="edu.berkeley.aep.SortTest" />
-      <option name="METHOD_NAME" value="theBetterOne" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="MAIN_CLASS_NAME" value="edu.berkeley.aep.RectangleTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.NotTest" />
-        <item itemvalue="JUnit.RecurrsionTest.reverseAPPLEShouldBeELPPA" />
-        <item itemvalue="Application.ReverseString" />
-        <item itemvalue="JUnit.SortTest" />
-        <item itemvalue="JUnit.SortTest.theBetterOne" />
+        <item itemvalue="JUnit.RectangleTeat" />
+        <item itemvalue="JUnit.RectangleTest" />
+        <item itemvalue="JUnit.BesterTest" />
+        <item itemvalue="JUnit.BesterTest.shouldChooseBestQuantity" />
+        <item itemvalue="JUnit.QuantityTest.twoTeaSpoonAddOneInchShouldThrowException" />
       </list>
     </recent_temporary>
   </component>
@@ -173,22 +210,22 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="421" y="83" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1581667158135" />
-    <state width="1259" height="133" key="GridCell.Tab.0.bottom" timestamp="1585622749483">
+    <state width="1259" height="133" key="GridCell.Tab.0.bottom" timestamp="1585627289035">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="133" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1585622749483" />
-    <state width="1259" height="133" key="GridCell.Tab.0.center" timestamp="1585622749483">
+    <state width="1259" height="133" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1585627289035" />
+    <state width="1259" height="133" key="GridCell.Tab.0.center" timestamp="1585627289035">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="133" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1585622749483" />
-    <state width="1259" height="133" key="GridCell.Tab.0.left" timestamp="1585622749482">
+    <state width="1259" height="133" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1585627289035" />
+    <state width="1259" height="133" key="GridCell.Tab.0.left" timestamp="1585627289035">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="133" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1585622749482" />
-    <state width="1259" height="133" key="GridCell.Tab.0.right" timestamp="1585622749483">
+    <state width="1259" height="133" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1585627289035" />
+    <state width="1259" height="133" key="GridCell.Tab.0.right" timestamp="1585627289035">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="133" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1585622749483" />
+    <state width="1259" height="133" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1585627289035" />
     <state width="1259" height="204" key="GridCell.Tab.1.bottom" timestamp="1583222246117">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -233,6 +270,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="309" y="0" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1585610931675" />
+    <state x="383" y="0" key="refactoring.ChangeSignatureDialog" timestamp="1585625335513">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="383" y="0" key="refactoring.ChangeSignatureDialog/0.0.1280.680@0.0.1280.680" timestamp="1585625335513" />
     <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1583185119781">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
