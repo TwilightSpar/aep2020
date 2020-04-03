@@ -10,4 +10,9 @@ public class RecurrsionTest {
         String string = "APPLE";
         assertEquals("ELPPA", ReverseString.reverse(string));
     }
+    @Test
+    public void reverseNoneShouldBeNone(){
+        String string = "";
+        assertEquals("", ReverseString.reverse(string));
+    }
 }
