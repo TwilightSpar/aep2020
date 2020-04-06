@@ -2,15 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e5d13d9a-8791-4ed9-984d-ad518889af15" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/edu/berkeley/aep/DirectedGraph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/edu/berkeley/aep/CanReachTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/aep2020/edu/berkeley/aep/Rectangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/aep2020/edu/berkeley/aep/Rectangle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/aep2020/edu/berkeley/aep/RectangleTeat.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/aep2020/edu/berkeley/aep/RectangleTeat.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/aep2020/edu/berkeley/aep/SquareTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/aep2020/edu/berkeley/aep/SquareTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/berkeley/aep/Bester.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/berkeley/aep/ReverseString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/berkeley/aep/ReverseString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/edu/berkeley/aep/BesterTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/edu/berkeley/aep/RecurrsionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/edu/berkeley/aep/RecurrsionTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/edu/berkeley/aep/SquareTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/edu/berkeley/aep/SquareTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,7 +12,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DarkyenusTimeTracker">
-    <option name="totalTimeSeconds" value="23285" />
+    <option name="totalTimeSeconds" value="30666" />
     <option name="gitIntegration" value="true" />
     <option name="naggedAbout" value="1" />
   </component>
@@ -77,30 +71,29 @@
       <recent name="edu.berkeley.aep" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.RecurrsionTest.reverseAPPLEShouldBeELPPA">
-    <configuration name="BesterTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.CanReachTest.hCanReachE">
+    <configuration name="DirectedGraph" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.berkeley.aep.DirectedGraph" />
+      <module name="aep2020" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CanReachTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="aep2020" />
       <option name="PACKAGE_NAME" value="edu.berkeley.aep" />
-      <option name="MAIN_CLASS_NAME" value="edu.berkeley.aep.BesterTest" />
+      <option name="MAIN_CLASS_NAME" value="edu.berkeley.aep.CanReachTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RectangleTeat" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="CanReachTest.hCanReachE" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="aep2020" />
       <option name="PACKAGE_NAME" value="edu.berkeley.aep" />
-      <option name="MAIN_CLASS_NAME" value="edu.berkeley.aep.RectangleTeat" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RectangleTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="aep2020" />
-      <option name="PACKAGE_NAME" value="edu.berkeley.aep" />
-      <option name="MAIN_CLASS_NAME" value="edu.berkeley.aep.RectangleTest" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="MAIN_CLASS_NAME" value="edu.berkeley.aep.CanReachTest" />
+      <option name="METHOD_NAME" value="hCanReachE" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -127,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.CanReachTest.hCanReachE" />
+        <item itemvalue="JUnit.CanReachTest" />
+        <item itemvalue="Application.DirectedGraph" />
         <item itemvalue="JUnit.RecurrsionTest.reverseAPPLEShouldBeELPPA" />
         <item itemvalue="JUnit.RecurrsionTest.reverseAPPLEShouldBeELPPA1" />
-        <item itemvalue="JUnit.RectangleTeat" />
-        <item itemvalue="JUnit.RectangleTest" />
-        <item itemvalue="JUnit.BesterTest" />
       </list>
     </recent_temporary>
   </component>
@@ -191,38 +184,38 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="421" y="83" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1581667158135" />
-    <state width="1259" height="133" key="GridCell.Tab.0.bottom" timestamp="1585953181101">
+    <state width="1259" height="133" key="GridCell.Tab.0.bottom" timestamp="1586212113431">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="133" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1585953181101" />
-    <state width="1259" height="133" key="GridCell.Tab.0.center" timestamp="1585953181101">
+    <state width="1259" height="133" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1586212113431" />
+    <state width="1259" height="133" key="GridCell.Tab.0.center" timestamp="1586212113430">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="133" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1585953181101" />
-    <state width="1259" height="133" key="GridCell.Tab.0.left" timestamp="1585953181100">
+    <state width="1259" height="133" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1586212113430" />
+    <state width="1259" height="133" key="GridCell.Tab.0.left" timestamp="1586212113430">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="133" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1585953181100" />
-    <state width="1259" height="133" key="GridCell.Tab.0.right" timestamp="1585953181101">
+    <state width="1259" height="133" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1586212113430" />
+    <state width="1259" height="133" key="GridCell.Tab.0.right" timestamp="1586212113430">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="133" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1585953181101" />
-    <state width="1259" height="204" key="GridCell.Tab.1.bottom" timestamp="1583222246117">
+    <state width="1259" height="133" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1586212113430" />
+    <state width="1259" height="204" key="GridCell.Tab.1.bottom" timestamp="1586124230233">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="204" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1583222246117" />
-    <state width="1259" height="204" key="GridCell.Tab.1.center" timestamp="1583222246117">
+    <state width="1259" height="204" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1586124230233" />
+    <state width="1259" height="204" key="GridCell.Tab.1.center" timestamp="1586124230233">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="204" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1583222246117" />
-    <state width="1259" height="204" key="GridCell.Tab.1.left" timestamp="1583222246117">
+    <state width="1259" height="204" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1586124230233" />
+    <state width="1259" height="204" key="GridCell.Tab.1.left" timestamp="1586124230233">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="204" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1583222246117" />
-    <state width="1259" height="204" key="GridCell.Tab.1.right" timestamp="1583222246117">
+    <state width="1259" height="204" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1586124230233" />
+    <state width="1259" height="204" key="GridCell.Tab.1.right" timestamp="1586124230233">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="204" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1583222246117" />
+    <state width="1259" height="204" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1586124230233" />
     <state x="121" y="0" key="SettingsEditor" timestamp="1581667505873">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -231,10 +224,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="362" y="82" width="540" height="524" key="StructurePopup/0.0.1280.680@0.0.1280.680" timestamp="1583185270545" />
-    <state x="53" y="306" key="com.intellij.ide.util.TipDialog" timestamp="1585607869237">
+    <state x="53" y="306" key="com.intellij.ide.util.TipDialog" timestamp="1586207170012">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="53" y="306" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1585607869237" />
+    <state x="53" y="306" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1586207170012" />
     <state x="375" y="235" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1580358867517">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
