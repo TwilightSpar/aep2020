@@ -1,10 +1,7 @@
 package edu.berkeley.aep;
 
 import java.io.*;
-import java.util.Arrays;
-import java.util.HashSet;
-import java.util.LinkedList;
-import java.util.Set;
+import java.util.*;
 import java.util.stream.Collectors;
 
 // understand the behaviors of directedGraph
@@ -34,22 +31,30 @@ public class DirectedGraph {
         init();
     }
 
-    public boolean canReach(int from, int to){
-        return canReach(from, to, new HashSet<>());
+    public int canReach(int from, int to){
+        var hopOption = new HashMap<Integer, Integer>();
+        for(int i = 0; i< graph.size(); i++)
+            hopOption.put(i, graph.size());
+        canReach(from, to, new HashSet<>(), hopOption);
+        return hopOption.get(from);
     }
-
-    public boolean canReach(int from, int to, Set<Integer> visited) {
-        if(from == to) return true;
+    // return 0 if from == to; return int that larger than 0, means hops; return -1 means not connected
+    public void canReach(int from, int to, Set<Integer> visited, HashMap<Integer, Integer> hopOption) {
+        if(from == to){
+            hopOption.put(from, 0);
+        }
         if(from >= graph.size() || to >= graph.size())
             throw new IllegalArgumentException("out of bound");
 
-        // if has visited, return false, else add 'from' to 'visited'.
-        if(!visited.add(from)) return false;
+        if(!visited.add(from)) return;
+
         for(Integer child: graph.get(from)) {
-            if(canReach(child, to, visited))
-                return true;
+            canReach(child, to, visited, hopOption);
+            if((hopOption.get(child) + 1) < hopOption.get(from)){
+
+                hopOption.put(from, hopOption.get(child) + 1);
+            }
         }
-        return false;
     }
 }
 

@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e5d13d9a-8791-4ed9-984d-ad518889af15" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/edu/berkeley/aep/DirectedGraph.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/edu/berkeley/aep/CanReachTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/aep2020/edu/berkeley/aep/DirectedGraph.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/aep2020/edu/berkeley/aep/DirectedGraph.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/aep2020/edu/berkeley/aep/CanReachTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/aep2020/edu/berkeley/aep/CanReachTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/berkeley/aep/DirectedGraph.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/berkeley/aep/DirectedGraph.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/edu/berkeley/aep/CanReachTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/edu/berkeley/aep/CanReachTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,7 +14,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DarkyenusTimeTracker">
-    <option name="totalTimeSeconds" value="30666" />
+    <option name="totalTimeSeconds" value="37567" />
     <option name="gitIntegration" value="true" />
     <option name="naggedAbout" value="1" />
   </component>
@@ -30,7 +32,6 @@
   <component name="ProjectId" id="1WpkcAlzZZCJ55FpIeKJ1jW9F2n" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
@@ -43,11 +44,12 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Groovy JUnit" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Groovy JUnit" value="groovy.util.GroovyTestCase" />
     <property name="findjar.last.used.dir" value="$PROJECT_DIR$" />
+    <property name="idea.background.editor" value="C:\Users\yangy\Desktop\utility\Snipaste\Snipaste_2020-04-13_14-49-49.png,72,plain,bottom_right" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Global Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.3460972" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="ExtractSuperBase.RECENT_KEYS">
@@ -71,19 +73,42 @@
       <recent name="edu.berkeley.aep" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.CanReachTest.hCanReachE">
-    <configuration name="DirectedGraph" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="edu.berkeley.aep.DirectedGraph" />
-      <module name="aep2020" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.CanReachTest">
     <configuration name="CanReachTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="aep2020" />
       <option name="PACKAGE_NAME" value="edu.berkeley.aep" />
       <option name="MAIN_CLASS_NAME" value="edu.berkeley.aep.CanReachTest" />
       <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CanReachTest.cCanReachBWith2Hops" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="aep2020" />
+      <option name="PACKAGE_NAME" value="edu.berkeley.aep" />
+      <option name="MAIN_CLASS_NAME" value="edu.berkeley.aep.CanReachTest" />
+      <option name="METHOD_NAME" value="cCanReachBWith2Hops" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CanReachTest.cCanReachBWith2Hopsff" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="aep2020" />
+      <option name="PACKAGE_NAME" value="edu.berkeley.aep" />
+      <option name="MAIN_CLASS_NAME" value="edu.berkeley.aep.CanReachTest" />
+      <option name="METHOD_NAME" value="cCanReachBWith2Hopsff" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CanReachTest.hCanReach" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="aep2020" />
+      <option name="PACKAGE_NAME" value="edu.berkeley.aep" />
+      <option name="MAIN_CLASS_NAME" value="edu.berkeley.aep.CanReachTest" />
+      <option name="METHOD_NAME" value="hCanReach" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -98,33 +123,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RecurrsionTest.reverseAPPLEShouldBeELPPA" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="aep2020" />
-      <option name="PACKAGE_NAME" value="edu.berkeley.aep" />
-      <option name="MAIN_CLASS_NAME" value="edu.berkeley.aep.RecurrsionTest" />
-      <option name="METHOD_NAME" value="reverseAPPLEShouldBeELPPA" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RecurrsionTest.reverseAPPLEShouldBeELPPA1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="aep2020" />
-      <option name="PACKAGE_NAME" value="edu.berkeley.aep" />
-      <option name="MAIN_CLASS_NAME" value="edu.berkeley.aep.RecurrsionTest" />
-      <option name="METHOD_NAME" value="reverseAPPLEShouldBeELPPA1" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.CanReachTest.hCanReachE" />
         <item itemvalue="JUnit.CanReachTest" />
-        <item itemvalue="Application.DirectedGraph" />
-        <item itemvalue="JUnit.RecurrsionTest.reverseAPPLEShouldBeELPPA" />
-        <item itemvalue="JUnit.RecurrsionTest.reverseAPPLEShouldBeELPPA1" />
+        <item itemvalue="JUnit.CanReachTest.cCanReachBWith2Hopsff" />
+        <item itemvalue="JUnit.CanReachTest.cCanReachBWith2Hops" />
+        <item itemvalue="JUnit.CanReachTest.hCanReach" />
+        <item itemvalue="JUnit.CanReachTest.hCanReachE" />
       </list>
     </recent_temporary>
   </component>
@@ -168,6 +173,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="471" y="52" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog/0.0.1280.680@0.0.1280.680" timestamp="1581401015989" />
+    <state x="321" y="77" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1586591758895">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="321" y="77" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1280.680@0.0.1280.680" timestamp="1586591758895" />
     <state x="438" y="201" width="404" height="287" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1585612517514">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -180,54 +189,54 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="395" y="57" key="DetectedRootsChooserDialog/0.0.1280.680@0.0.1280.680" timestamp="1581400947178" />
-    <state x="421" y="83" key="FileChooserDialogImpl" timestamp="1581667158135">
+    <state x="421" y="83" key="FileChooserDialogImpl" timestamp="1586814657187">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="421" y="83" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1581667158135" />
-    <state width="1259" height="133" key="GridCell.Tab.0.bottom" timestamp="1586212113431">
+    <state x="421" y="83" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1586814657187" />
+    <state width="629" height="67" key="GridCell.Tab.0.bottom" timestamp="1586814824471">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="133" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1586212113431" />
-    <state width="1259" height="133" key="GridCell.Tab.0.center" timestamp="1586212113430">
+    <state width="629" height="67" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1586814824471" />
+    <state width="629" height="67" key="GridCell.Tab.0.center" timestamp="1586814824470">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="133" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1586212113430" />
-    <state width="1259" height="133" key="GridCell.Tab.0.left" timestamp="1586212113430">
+    <state width="629" height="67" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1586814824470" />
+    <state width="629" height="67" key="GridCell.Tab.0.left" timestamp="1586814824470">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="133" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1586212113430" />
-    <state width="1259" height="133" key="GridCell.Tab.0.right" timestamp="1586212113430">
+    <state width="629" height="67" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1586814824470" />
+    <state width="629" height="67" key="GridCell.Tab.0.right" timestamp="1586814824470">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="133" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1586212113430" />
-    <state width="1259" height="204" key="GridCell.Tab.1.bottom" timestamp="1586124230233">
+    <state width="629" height="67" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1586814824470" />
+    <state width="629" height="144" key="GridCell.Tab.1.bottom" timestamp="1586813735023">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="204" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1586124230233" />
-    <state width="1259" height="204" key="GridCell.Tab.1.center" timestamp="1586124230233">
+    <state width="629" height="144" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1586813735023" />
+    <state width="629" height="144" key="GridCell.Tab.1.center" timestamp="1586813735023">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="204" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1586124230233" />
-    <state width="1259" height="204" key="GridCell.Tab.1.left" timestamp="1586124230233">
+    <state width="629" height="144" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1586813735023" />
+    <state width="629" height="144" key="GridCell.Tab.1.left" timestamp="1586813735023">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="204" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1586124230233" />
-    <state width="1259" height="204" key="GridCell.Tab.1.right" timestamp="1586124230233">
+    <state width="629" height="144" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1586813735023" />
+    <state width="629" height="144" key="GridCell.Tab.1.right" timestamp="1586813735023">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="204" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1586124230233" />
-    <state x="121" y="0" key="SettingsEditor" timestamp="1581667505873">
+    <state width="629" height="144" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1586813735023" />
+    <state x="121" y="0" key="SettingsEditor" timestamp="1586814933215">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="121" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1581667505873" />
+    <state x="121" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1586814933215" />
     <state x="362" y="82" width="540" height="524" key="StructurePopup" timestamp="1583185270545">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="362" y="82" width="540" height="524" key="StructurePopup/0.0.1280.680@0.0.1280.680" timestamp="1583185270545" />
-    <state x="53" y="306" key="com.intellij.ide.util.TipDialog" timestamp="1586207170012">
+    <state x="53" y="306" key="com.intellij.ide.util.TipDialog" timestamp="1586591732144">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="53" y="306" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1586207170012" />
+    <state x="53" y="306" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1586591732144" />
     <state x="375" y="235" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1580358867517">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -244,10 +253,14 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="309" y="0" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1585610931675" />
-    <state x="383" y="0" key="refactoring.ChangeSignatureDialog" timestamp="1585625335513">
+    <state x="392" y="214" width="619" height="461" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1586814931747">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="383" y="0" key="refactoring.ChangeSignatureDialog/0.0.1280.680@0.0.1280.680" timestamp="1585625335513" />
+    <state x="392" y="214" width="619" height="461" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1280.680@0.0.1280.680" timestamp="1586814931747" />
+    <state x="636" y="65" width="585" height="575" key="refactoring.ChangeSignatureDialog" timestamp="1586588941676">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="636" y="65" width="585" height="575" key="refactoring.ChangeSignatureDialog/0.0.1280.680@0.0.1280.680" timestamp="1586588941676" />
     <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1583185119781">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -260,6 +273,11 @@
           <url>file://$PROJECT_DIR$/src/edu/berkeley/aep/ScaleQuantity.java</url>
           <line>14</line>
           <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/edu/berkeley/aep/DirectedGraph.java</url>
+          <line>50</line>
+          <option name="timeStamp" value="7" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
