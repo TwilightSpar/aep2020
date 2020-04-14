@@ -35,23 +35,21 @@ public class DirectedGraph {
         var hopOption = new HashMap<Integer, Integer>();
         for(int i = 0; i< graph.size(); i++)
             hopOption.put(i, graph.size());
-        canReach(from, to, new HashSet<>(), hopOption);
+        canReach(from, to, hopOption);
         return hopOption.get(from);
     }
     // return 0 if from == to; return int that larger than 0, means hops; return -1 means not connected
-    public void canReach(int from, int to, Set<Integer> visited, HashMap<Integer, Integer> hopOption) {
+    public void canReach(int from, int to, HashMap<Integer, Integer> hopOption) {
         if(from == to){
             hopOption.put(from, 0);
+            return;
         }
         if(from >= graph.size() || to >= graph.size())
             throw new IllegalArgumentException("out of bound");
 
-        if(!visited.add(from)) return;
-
         for(Integer child: graph.get(from)) {
-            canReach(child, to, visited, hopOption);
+            canReach(child, to, hopOption);
             if((hopOption.get(child) + 1) < hopOption.get(from)){
-
                 hopOption.put(from, hopOption.get(child) + 1);
             }
         }
